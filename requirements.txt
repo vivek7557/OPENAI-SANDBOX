@@ -1,0 +1,25 @@
+# Core LLM & Assistant Libraries
+openai
+langchain
+python-dotenv
+
+# Data Science & ML
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+matplotlib
+
+# Web App / UI
+streamlit
+
+# PDF / File Handling (used in brochure generator)
+reportlab
+
+# Code Generator
+astor
+
+# Optional NLP / Utilities
+tqdm
+requests
