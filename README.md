@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-API-green)](https://platform.openai.com/)
+[![LLM Models](https://img.shields.io/badge/Models-GPT--4%20%7C%20Claude%20%7C%20Mistral-orange)](#)
 
 A modular repository for exploring and building projects using Large Language Models (LLMs). This includes:
 
@@ -19,11 +20,14 @@ Built using tools like OpenAI, LangChain, Streamlit, and XGBoost.
 
 ```bash
 llm-lab/
-├── assistants/           # AI assistants (e.g. finance advisor)
-├── chatbots/             # Custom LLM chatbots (e.g. FAQ bots)
-├── agents/               # Multi-agent systems and workflows
-├── fraud_detection_llm/  # LLM + ML hybrid project
-├── utils/                # Shared utils (prompt templates, loaders)
+├── assistants/               # AI assistants (e.g. finance advisor)
+├── chatbots/                 # Custom LLM chatbots (e.g. FAQ bots)
+├── agents/                   # Multi-agent systems and workflows
+├── fraud_detection_llm/      # LLM + ML hybrid project
+├── brochure_generator/       # LLM-based brochure generation
+├── code_generator/           # AI-powered code generation tools
+├── flight_assistant/         # LLM-powered travel/flight agent
+├── utils/                    # Shared utils (prompt templates, loaders)
 ├── README.md
 └── requirements.txt
 ```
@@ -72,25 +76,5 @@ OPENAI_API_KEY=your-api-key-here
 - Task-based agent using LangChain agents + tools
 - Examples: research bot, finance advisor
 
----
-
-## 📦 Requirements
-- Python 3.9+
-- OpenAI API Key
-- Libraries: `openai`, `langchain`, `xgboost`, `scikit-learn`, `shap`, `streamlit`, etc.
-
----
-
-## 📝 License
-MIT License © 2025 [Your Name]
-
----
-
-## 🌐 Connect
-- 📧 Email: your@email.com
-- 🧠 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 📂 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
----
-
-Let’s build the future of intelligent agents 🚀
+### ✈️ AI Flight Assistant
+- Natural l
