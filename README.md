@@ -77,4 +77,35 @@ OPENAI_API_KEY=your-api-key-here
 - Examples: research bot, finance advisor
 
 ### ✈️ AI Flight Assistant
-- Natural l
+- Natural language travel planner using OpenAI & LangChain
+- Understands queries like "Book me a flight from Delhi to London on Friday"
+
+### 🎨 Brochure Generator
+- Generates product brochures or flyers based on user input
+- Uses GPT-4 + HTML + PDF export
+
+### 🧑‍💻 Code Generator
+- Prompt-based Python/JS code generation assistant
+- Explains and documents generated code
+
+---
+
+## 📦 Requirements
+- Python 3.9+
+- OpenAI API Key
+- Libraries: `openai`, `langchain`, `xgboost`, `scikit-learn`, `shap`, `streamlit`, `dotenv`, `matplotlib`, etc.
+
+---
+
+## 📝 License
+MIT License © 2025 [Your Name]
+
+---
+
+## 🌐 Connect
+- 📧 Email: vivekgiri556@gmail.com
+- 🧠 LinkedIn: [linkedin.com/in/vivekgiri7557](https://www.linkedin.com/in/vivekgiri7557)
+
+---
+
+Let’s build the future of intelligent agents 🚀
