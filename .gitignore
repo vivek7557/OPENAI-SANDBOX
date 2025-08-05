@@ -1,0 +1,36 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm & VS Code settings
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# Model checkpoints or large files
+*.ckpt
+*.pt
+*.h5
+
+# Compiled output
+*.pdf
+*.html
+*.zip
