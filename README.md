@@ -38,8 +38,8 @@ llm-lab/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/llm-lab.git
-cd llm-lab
+git clone https://github.com/vivek7557/OPENAI-SANDBOX.git
+cd OPENAI-SANDBOX
 ```
 
 ### 2. Set Up Virtual Environment
