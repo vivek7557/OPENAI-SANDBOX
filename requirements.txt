@@ -26,3 +26,9 @@ requests
 
 fpdf2
 
+openai
+streamlit
+pandas
+gradio
+python-dotenv
+
