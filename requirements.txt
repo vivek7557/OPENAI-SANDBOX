@@ -23,3 +23,6 @@ astor
 # Optional NLP / Utilities
 tqdm
 requests
+
+fpdf2
+
